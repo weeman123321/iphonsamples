@@ -19,6 +19,20 @@
 		2C0DEF8817AF3EA600DA6AFA /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF8617AF3EA600DA6AFA /* MainStoryboard_iPhone.storyboard */; };
 		2C0DEF8B17AF3EA600DA6AFA /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF8917AF3EA600DA6AFA /* MainStoryboard_iPad.storyboard */; };
 		2C0DEF8E17AF3EA600DA6AFA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0DEF8D17AF3EA600DA6AFA /* ViewController.m */; };
+		2C0DEF9817AF3EE200DA6AFA /* southern_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF9417AF3EE200DA6AFA /* southern_bg.png */; };
+		2C0DEF9917AF3EE200DA6AFA /* bonifacio_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF9517AF3EE200DA6AFA /* bonifacio_bg.png */; };
+		2C0DEF9A17AF3EE200DA6AFA /* bonifacio_avida_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF9617AF3EE200DA6AFA /* bonifacio_avida_on.png */; };
+		2C0DEF9B17AF3EE200DA6AFA /* southern_avida_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0DEF9717AF3EE200DA6AFA /* southern_avida_on.png */; };
+		2C36E0B817B88A56002F5B18 /* popViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C36E0B617B88A56002F5B18 /* popViewController.m */; };
+		2C36E0B917B88A56002F5B18 /* popViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C36E0B717B88A56002F5B18 /* popViewController.xib */; };
+		2C5DCF7117B3419B0000939C /* samppl123ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C5DCF6F17B3419B0000939C /* samppl123ViewController.m */; };
+		2C5DCF7217B3419B0000939C /* samppl123ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C5DCF7017B3419B0000939C /* samppl123ViewController.xib */; };
+		2C5DCF7417B3432B0000939C /* creatqwe.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C5DCF7317B3432B0000939C /* creatqwe.xib */; };
+		2C5DCF7717B35B4D0000939C /* navViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C5DCF7617B35B4D0000939C /* navViewController.m */; };
+		2C5DCF7917B35B6C0000939C /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C5DCF7817B35B6B0000939C /* Storyboard.storyboard */; };
+		2CB384CC17B1F92100C3452A /* Anya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CB384CB17B1F92100C3452A /* Anya.jpg */; };
+		2CB384CE17B1F9E600C3452A /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CB384CD17B1F9E600C3452A /* CoreImage.framework */; };
+		2CB384D017B21AC900C3452A /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CB384CF17B21AC900C3452A /* AssetsLibrary.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +53,23 @@
 		2C0DEF8A17AF3EA600DA6AFA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		2C0DEF8C17AF3EA600DA6AFA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		2C0DEF8D17AF3EA600DA6AFA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2C0DEF9417AF3EE200DA6AFA /* southern_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = southern_bg.png; sourceTree = "<group>"; };
+		2C0DEF9517AF3EE200DA6AFA /* bonifacio_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bonifacio_bg.png; sourceTree = "<group>"; };
+		2C0DEF9617AF3EE200DA6AFA /* bonifacio_avida_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bonifacio_avida_on.png; sourceTree = "<group>"; };
+		2C0DEF9717AF3EE200DA6AFA /* southern_avida_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = southern_avida_on.png; sourceTree = "<group>"; };
+		2C36E0B517B88A56002F5B18 /* popViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = popViewController.h; sourceTree = "<group>"; };
+		2C36E0B617B88A56002F5B18 /* popViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = popViewController.m; sourceTree = "<group>"; };
+		2C36E0B717B88A56002F5B18 /* popViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = popViewController.xib; sourceTree = "<group>"; };
+		2C5DCF6E17B3419B0000939C /* samppl123ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = samppl123ViewController.h; sourceTree = "<group>"; };
+		2C5DCF6F17B3419B0000939C /* samppl123ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = samppl123ViewController.m; sourceTree = "<group>"; };
+		2C5DCF7017B3419B0000939C /* samppl123ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = samppl123ViewController.xib; sourceTree = "<group>"; };
+		2C5DCF7317B3432B0000939C /* creatqwe.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = creatqwe.xib; sourceTree = "<group>"; };
+		2C5DCF7517B35B4D0000939C /* navViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = navViewController.h; sourceTree = "<group>"; };
+		2C5DCF7617B35B4D0000939C /* navViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = navViewController.m; sourceTree = "<group>"; };
+		2C5DCF7817B35B6B0000939C /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		2CB384CB17B1F92100C3452A /* Anya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Anya.jpg; sourceTree = "<group>"; };
+		2CB384CD17B1F9E600C3452A /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
+		2CB384CF17B21AC900C3452A /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +77,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CB384D017B21AC900C3452A /* AssetsLibrary.framework in Frameworks */,
+				2CB384CE17B1F9E600C3452A /* CoreImage.framework in Frameworks */,
 				2C0DEF6F17AF3EA500DA6AFA /* UIKit.framework in Frameworks */,
 				2C0DEF7117AF3EA500DA6AFA /* Foundation.framework in Frameworks */,
 				2C0DEF7317AF3EA500DA6AFA /* CoreGraphics.framework in Frameworks */,
@@ -58,6 +91,8 @@
 		2C0DEF6217AF3EA500DA6AFA = {
 			isa = PBXGroup;
 			children = (
+				2CB384CF17B21AC900C3452A /* AssetsLibrary.framework */,
+				2CB384CD17B1F9E600C3452A /* CoreImage.framework */,
 				2C0DEF7417AF3EA500DA6AFA /* iphonsamples */,
 				2C0DEF6D17AF3EA500DA6AFA /* Frameworks */,
 				2C0DEF6C17AF3EA500DA6AFA /* Products */,
@@ -87,11 +122,26 @@
 			children = (
 				2C0DEF7D17AF3EA600DA6AFA /* AppDelegate.h */,
 				2C0DEF7E17AF3EA600DA6AFA /* AppDelegate.m */,
+				2CB384CB17B1F92100C3452A /* Anya.jpg */,
+				2C0DEF9417AF3EE200DA6AFA /* southern_bg.png */,
+				2C0DEF9517AF3EE200DA6AFA /* bonifacio_bg.png */,
+				2C0DEF9617AF3EE200DA6AFA /* bonifacio_avida_on.png */,
+				2C0DEF9717AF3EE200DA6AFA /* southern_avida_on.png */,
 				2C0DEF8617AF3EA600DA6AFA /* MainStoryboard_iPhone.storyboard */,
+				2C5DCF7517B35B4D0000939C /* navViewController.h */,
+				2C5DCF7617B35B4D0000939C /* navViewController.m */,
+				2C5DCF7817B35B6B0000939C /* Storyboard.storyboard */,
+				2C5DCF7317B3432B0000939C /* creatqwe.xib */,
 				2C0DEF8917AF3EA600DA6AFA /* MainStoryboard_iPad.storyboard */,
 				2C0DEF8C17AF3EA600DA6AFA /* ViewController.h */,
 				2C0DEF8D17AF3EA600DA6AFA /* ViewController.m */,
+				2C36E0B517B88A56002F5B18 /* popViewController.h */,
+				2C36E0B617B88A56002F5B18 /* popViewController.m */,
+				2C36E0B717B88A56002F5B18 /* popViewController.xib */,
 				2C0DEF7517AF3EA500DA6AFA /* Supporting Files */,
+				2C5DCF6E17B3419B0000939C /* samppl123ViewController.h */,
+				2C5DCF6F17B3419B0000939C /* samppl123ViewController.m */,
+				2C5DCF7017B3419B0000939C /* samppl123ViewController.xib */,
 			);
 			path = iphonsamples;
 			sourceTree = "<group>";
@@ -167,6 +217,15 @@
 				2C0DEF8517AF3EA600DA6AFA /* Default-568h@2x.png in Resources */,
 				2C0DEF8817AF3EA600DA6AFA /* MainStoryboard_iPhone.storyboard in Resources */,
 				2C0DEF8B17AF3EA600DA6AFA /* MainStoryboard_iPad.storyboard in Resources */,
+				2C0DEF9817AF3EE200DA6AFA /* southern_bg.png in Resources */,
+				2C0DEF9917AF3EE200DA6AFA /* bonifacio_bg.png in Resources */,
+				2C0DEF9A17AF3EE200DA6AFA /* bonifacio_avida_on.png in Resources */,
+				2C0DEF9B17AF3EE200DA6AFA /* southern_avida_on.png in Resources */,
+				2CB384CC17B1F92100C3452A /* Anya.jpg in Resources */,
+				2C5DCF7217B3419B0000939C /* samppl123ViewController.xib in Resources */,
+				2C5DCF7417B3432B0000939C /* creatqwe.xib in Resources */,
+				2C5DCF7917B35B6C0000939C /* Storyboard.storyboard in Resources */,
+				2C36E0B917B88A56002F5B18 /* popViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,6 +239,9 @@
 				2C0DEF7B17AF3EA600DA6AFA /* main.m in Sources */,
 				2C0DEF7F17AF3EA600DA6AFA /* AppDelegate.m in Sources */,
 				2C0DEF8E17AF3EA600DA6AFA /* ViewController.m in Sources */,
+				2C5DCF7117B3419B0000939C /* samppl123ViewController.m in Sources */,
+				2C5DCF7717B35B4D0000939C /* navViewController.m in Sources */,
+				2C36E0B817B88A56002F5B18 /* popViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,7 +287,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Wendy Ang (PRZKE2HKH4)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Wendy Ang (PRZKE2HKH4)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -240,6 +303,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "5CBDD0F1-02CE-463A-91EF-D755EF127E10";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5CBDD0F1-02CE-463A-91EF-D755EF127E10";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -257,7 +322,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Wendy Ang (PRZKE2HKH4)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Wendy Ang (PRZKE2HKH4)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -265,6 +331,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "5CBDD0F1-02CE-463A-91EF-D755EF127E10";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "65AF0DC6-74B2-446E-B606-5D2E0BE4BEEC";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -278,6 +346,7 @@
 				GCC_PREFIX_HEADER = "iphonsamples/iphonsamples-Prefix.pch";
 				INFOPLIST_FILE = "iphonsamples/iphonsamples-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -285,10 +354,13 @@
 		2C0DEF9317AF3EA600DA6AFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Wendy Ang (PRZKE2HKH4)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iphonsamples/iphonsamples-Prefix.pch";
 				INFOPLIST_FILE = "iphonsamples/iphonsamples-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5CBDD0F1-02CE-463A-91EF-D755EF127E10";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -312,6 +384,7 @@
 				2C0DEF9317AF3EA600DA6AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
